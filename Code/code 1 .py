@@ -7,3 +7,5 @@ print("hello world ")
 print('g')
 
 print ("I wrote the name and id in brance 41910306")
+print("my name Ayman saad amer")
+print("my id 41910306")
